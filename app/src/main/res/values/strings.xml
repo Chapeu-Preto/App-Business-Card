@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="full_name_text">Higor Bezerra Tomaz</string>
+    <string name="profession_text">Mobile Developer</string>
+    <string name="foto_graduacao_text">Foto Formatura</string>
+    <string name="foto_logo_android_text">Logo Android</string>
+    <string name="fone_text">+55 (81) 9.9833–5417</string>
+    <string name="instagram_text">&#64;higorbezerratomaz</string>
+    <string name="email_text">hbt@hotmail.com</string>
 </resources>
